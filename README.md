@@ -23,12 +23,10 @@
 </p>
 
 
----
-
+--- 
 ### 📊 My GitHub Analytics
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivani-mali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-mali&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-mali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF" />
