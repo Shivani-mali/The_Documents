@@ -76,6 +76,8 @@
 ---
 
 ### 🏆 Achievements & Certifications
+
+[![An image of @shivanimali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivanimali)](https://holopin.io/@shivanimali)
 - 🚀 **Agnirva Space Internship (ISRO Registered Tutor)**
 - 🐍 **Python + Django Internship – Revolution IT Solutions**
 - 🤖 **Career Essentials in GenAI – Microsoft & LinkedIn**
@@ -104,3 +106,5 @@
 <p align="center">
   ✨ <em>“Code, Learn, Speak, and Inspire — That’s My Motto.”</em> ✨
 </p>
+
+
